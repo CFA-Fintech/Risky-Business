@@ -46,9 +46,9 @@ For each of the above, you will need to:
 Use the above to answer the following:
 
 > Which model had the best balanced accuracy score?
-> SMOTE Oversampling has the best balance accuracy score (0.662423357630431 is closer to 1)
+>
 > Which model had the best recall score?
-> 
+>
 > Which model had the best geometric mean score?
 
 #### Ensemble Learning
@@ -67,7 +67,7 @@ Be sure to complete the following steps for each model:
 Use the above to answer the following:
 
 > Which model had the best balanced accuracy score?
-> EasyEnsembleClassifier has the best balance accuracy score (0.9154751595365336 is closer to 1)
+>
 > Which model had the best recall score?
 >
 > Which model had the best geometric mean score?
@@ -95,4 +95,3 @@ For the ensemble learners, use 100 estimators for both models.
 ---
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
